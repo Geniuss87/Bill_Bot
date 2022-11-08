@@ -1,0 +1,6 @@
+pyTelegramBotAPI==4.7.1
+python-decouple==3.6
+beautifulsoup4==4.11.1
+soupsieve==2.3.2.post1
+
+
